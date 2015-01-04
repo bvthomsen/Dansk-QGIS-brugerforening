@@ -1,7 +1,7 @@
 #Vedtægter for Dansk QGIS brugergruppe
 (udkast pr 4/1-2015)
 
-Nedenstående er et vedtægtsforslag for Dansk QGIS Brugergruppe. Dette er pt. ikke gennemarbejdet!
+**Nedenstående er et vedtægtsforslag for Dansk QGIS Brugergruppe. Dette er pt. blot en "boilerplate" vedtægt uden egentligt indhold!**
 
 ###§ 1. Navn og hjemsted
 
