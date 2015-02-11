@@ -19,7 +19,7 @@ Foreningen er medlem af/en del af **___** (OSGEO???).
 #### Stk. 1. ####
 Foreningens formål er:
 
-- ?
+- **Det er her, hvor der skal tilføjes en række forslag**
 - ??
 - ???
 
@@ -29,13 +29,13 @@ Foreningens formål er:
 Som medlemmer optages enhver, som har lyst og vilje til at arbejde for foreningens formål.
 
 #### Stk. 2. ####
-Indmeldelse sker på foreningens indmeldelsesblanket ved henvendelse til foreningens formand eller kasserer. Medlemskabet er først gyldigt, når medlemmet har betalt kontingent for det første kvartal.
+Indmeldelse sker på foreningens indmeldelsesblanket ved henvendelse til foreningens formand eller kasserer. Medlemskabet er først gyldigt, når medlemmet har betalt kontingent for det første kvartal. **(Eller noget mere nutidigt ?**
 
 #### Stk. 3. ####
 Udmeldelse kan ske ved henvendelse til et bestyrelsesmedlem med virkning fra udgangen af et kvartal.
 
 #### Stk. 4. ####
-Medlemmerne betaler et af generalforsamlingen fastsat kontingent. Kontingentet opkræves forud for hvert kvartal/halvår/regnskabsår.
+Medlemmerne betaler et af generalforsamlingen fastsat kontingent. Kontingentet opkræves forud for hvert år.
 
 ###§ 4. Generalforsamlingen###
 
@@ -137,12 +137,12 @@ Vedtægtsændringer træder i kraft med virkning fra den generalforsamling, de v
 Opløsning af foreningen kan kun finde sted med 2/3 flertal på to hinanden følgende generalforsamlinger, hvoraf den ene skal være ordinær.
 
 #### Stk. 2. ####
-Ved opløsning tilfalder foreningens aktiver ________________ efter den opløsende generalforsamlings nærmere bestemmelser.
+Ved opløsning tilfalder foreningens aktiver **________________** efter den opløsende generalforsamlings nærmere bestemmelser.
 
 ###§ 11. Datering###
 
 #### Stk. 1. ####
-Således vedtaget på foreningens stiftende generalforsamling den __.__ 2015 og senest ændret på den ordinære/ekstraordinære generalforsamling den __.__ 2015.
+Således vedtaget på foreningens stiftende generalforsamling den __.__ 2015 og senest ændret på den ordinære/ekstraordinære generalforsamling den **__.__** 2015.
 
 Dirigentens underskrift
 
